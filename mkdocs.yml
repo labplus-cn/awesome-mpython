@@ -1,9 +1,9 @@
 site_name: 'Awesome mPython'
-site_url: 'https://github.io/labplus-cn/awesome-mpython'
+site_url: 'https://labplus-cn.github.io/awesome-mpython/'
 site_description: 'A curated list of mpython libraries, frameworks, software and resources.'
 site_author: 'tangliufeng'
 repo_name: 'labplus-cn/awesome-micropython'
-repo_url: 'https://github.com/labplus/awesome-mpython'
+repo_url: 'https://github.com/labplus-cn/awesome-mpython'
 edit_uri: ''
 
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/labplus-cn/awesome-mpython/master/docs/images/mpython_ico_en.png"  width="350" /><img src="https://raw.githubusercontent.com/labplus-cn/awesome-mpython/master/docs/images/micropython.png"  width="350" />
 
- 设立[aswsome-mpython](https://github.io/labplus-cn/awesome-mpython)网页项目初衷,旨在收集、归纳<kbd>掌控板</kbd>和<kbd>MicroPython</kbd>的一些网络上的资源。提供学习指南，库，软件和资源供<kbd>掌控板</kbd>和<kbd>MicroPython</kbd>爱好者学习！
+ 设立[aswsome-mpython](https://labplus-cn.github.io/awesome-mpython/)网页项目初衷,旨在收集、归纳<kbd>掌控板</kbd>和<kbd>MicroPython</kbd>的一些网络上的资源。提供学习指南，库，软件和资源供<kbd>掌控板</kbd>和<kbd>MicroPython</kbd>爱好者学习！
 
 `mPython`是`MicroPython`基础上的分支，旨在简化低成本微控制器上的实验和教学。它不需要预先安装Python环境或桌面软件，因此比以往更加轻松地上手。使用`mPython`，您可以编写简洁的Python代码来控制硬件，而不必使用复杂的底层语言（例如C或C ++）（Arduino用于编程的语言）。对初学者来说很棒！
 
