@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://github.io/labplus-cn/awesome-mpython/</loc>
+     <loc>https://labplus-cn.github.io/awesome-mpython/</loc>
      <lastmod>2019-10-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.io/labplus-cn/awesome-mpython/labplus_lib/</loc>
+     <loc>https://labplus-cn.github.io/awesome-mpython/labplus_lib/</loc>
      <lastmod>2019-10-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
