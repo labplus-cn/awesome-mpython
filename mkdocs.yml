@@ -1,0 +1,23 @@
+site_name: 'Awesome mPython'
+site_url: 'https://github.io/labplus-cn/awesome-mpython'
+site_description: 'A curated list of mpython libraries, frameworks, software and resources.'
+site_author: 'tangliufeng'
+repo_name: 'labplus-cn/awesome-micropython'
+repo_url: 'https://github.com/labplus/awesome-mpython'
+edit_uri: ''
+
+
+theme:
+  name: 'material'
+  language: 'en'
+  # logo: 'img/logo.svg'
+  favicon: 'images/favicon.ico'
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+nav:
+  - '首页': 'index.md'
+
+plugins:
+  - search
+  - minify
