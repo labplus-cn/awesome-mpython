@@ -1,6 +1,6 @@
 # labPlus library for mPython
 
-整理收纳labPlus的mPython库,源码放在[Github/labplus-cn/library](https://github.com/labplus-cn/awesome-mpython/tree/master/library)。
+整理收纳labPlus的mPython库,源码放在Github:[awesome-mpython/library](https://github.com/labplus-cn/awesome-mpython/tree/master/library)。
 
 ## 库
 
@@ -23,4 +23,9 @@
 * [servo](https://github.com/labplus-cn/awesome-mpython/tree/master/library/sensors/servo) - 掌控板舵机
 
 ### 人工智能
+
+
+### 其他
+
+* [microbit](https://github.com/labplus-cn/awesome-mpython/tree/master/library/other/microbit) - 掌控板兼容MicroBit
 
