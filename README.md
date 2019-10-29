@@ -1,6 +1,6 @@
 # mPython 精选资源
 
-<img src="/images/mpython_ico_en.png"  width="350" /><img src="/images/micropython.png"  width="350" />
+<img src="https://raw.githubusercontent.com/labplus-cn/awesome-mpython/master/docs/images/mpython_ico_en.png"  width="350" /><img src="https://raw.githubusercontent.com/labplus-cn/awesome-mpython/master/docs/images/micropython.png"  width="350" />
 
  设立[aswsome-mpython](https://labplus-cn.github.io/awesome-mpython/)网页项目初衷,旨在收集、归纳<kbd>掌控板</kbd>和<kbd>MicroPython</kbd>的一些网络上的资源。提供学习指南，库，软件和资源供<kbd>掌控板</kbd>和<kbd>MicroPython</kbd>爱好者学习！
 
