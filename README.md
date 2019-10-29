@@ -291,7 +291,7 @@
 
 ### 网络
 
-### 人工智能
+#### 人工智能
 
 * [qqai](https://github.com/labplus-cn/awesome-mpython/tree/master/library/qqai) -  [腾讯AI开放平台](https://ai.qq.com/)
 
