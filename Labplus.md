@@ -16,7 +16,7 @@
 
 ### 动作类
 
-* [servo](https://github.com/labplus-cn/awesome-mpython/tree/master/library/servo) - 掌控板舵机(掌控板已内置废止不用)
+* [servo](https://github.com/labplus-cn/awesome-mpython/tree/master/library/servo) - 掌控板舵机(掌控板已内置,废止不用)
 
 ### 网络
 
