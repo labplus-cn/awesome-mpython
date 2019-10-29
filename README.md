@@ -288,9 +288,12 @@
 
 * [XPT2046-touch-pad-driver-for-PyBoard](https://github.com/robert-hh/XPT2046-touch-pad-driver-for-PyBoard) - Driver for XPT2046 touch pad controller used in many TFT modules.
 
-### 物联网
+
+### 网络
 
 ### 人工智能
+
+* [qqai](https://github.com/labplus-cn/awesome-mpython/tree/master/library/qqai) -  [腾讯AI开放平台](https://ai.qq.com/)
 
 
 ------------------------------
