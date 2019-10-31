@@ -2,7 +2,7 @@ from qqai.base import *
 
 class Face(QQAIBase):
 
-    def face_detectface(self,image,mode=1):
+    def detect_face(self,image,mode=1):
         """人脸检测与分析"""
         self.api = 'https://api.ai.qq.com/fcgi-bin/face/face_detectface'
         self.params = {'app_id': self.app_id,
