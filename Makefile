@@ -6,7 +6,6 @@ install:
 
 link:
 	ln -sf $(BASEDIR)/README.md $(DOCDIR)/index.md
-	ln -sf $(BASEDIR)/Labplus.md $(DOCDIR)/Labplus.md
 
 serve:
 	$(MAKE) link

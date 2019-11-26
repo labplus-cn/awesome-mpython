@@ -17,7 +17,7 @@ theme:
     accent: 'teal'
 nav:
   - 'MicroPython精选': 'index.md'
-  - 'LabPlus': Labplus.md
+  
 
 plugins:
   - search
