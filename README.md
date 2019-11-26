@@ -180,7 +180,7 @@
 * 红外
     * [micropython-necir](https://github.com/MattMatic/micropython-necir) - NEC infrared capture for TL1838 IR receiver LEDs.
     * [Micropython-IR](https://github.com/designerPing/Micropython-IR) - Pyboard infrared remote sniff and replay.
-    * [IR Remote](https://github.com/labplus-cn/awesome-mpython/tree/master/library/other/microbit) - 红外编解码(NEC)的驱动  <img src="https://img.icons8.com/plasticine/30/000000/guarantee.png">  <img src="https://img.icons8.com/cotton/30/000000/add-to-collection--v2.png">
+    * [IR Remote](https://github.com/labplus-cn/awesome-mpython/tree/master/library/ir_remote) - 红外编解码(NEC)的驱动  <img src="https://img.icons8.com/plasticine/30/000000/guarantee.png">  <img src="https://img.icons8.com/cotton/30/000000/add-to-collection--v2.png">
 </br>
 </br>
 
@@ -210,7 +210,7 @@
 * [micropython-mcp230xx](https://github.com/ShrimpingIt/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders.
 * [Micropython-AD9833](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, spi interface.
 * [microbit](https://github.com/labplus-cn/awesome-mpython/tree/master/library/microbit) - 掌控板兼容MicroBit  <img src="https://img.icons8.com/plasticine/30/000000/guarantee.png">  <img src="https://img.icons8.com/cotton/30/000000/add-to-collection--v2.png">
-* [ivPID](https://github.com/labplus-cn/awesome-mpython/tree/master/library/ivPID) - PID算法  <img src="https://img.icons8.com/plasticine/30/000000/guarantee.png">  <img src="https://img.icons8.com/cotton/30/000000/add-to-collection--v2.png">
+* [ivPID](https://github.com/labplus-cn/awesome-mpython/tree/master/library/ivPID) - PID控制器  <img src="https://img.icons8.com/plasticine/30/000000/guarantee.png">  <img src="https://img.icons8.com/cotton/30/000000/add-to-collection--v2.png">
 
 
 
