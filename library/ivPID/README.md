@@ -1,6 +1,6 @@
 # ivPID
 
-http://ivmech.github.io/ivPID
+修改至 http://ivmech.github.io/ivPID,使其可适配在MicroPython和mPython上。
 
 Ivmech PID Controller is simple implementation of a Proportional-Integral-Derivative (PID) Controller in the Python Programming Language.
 
