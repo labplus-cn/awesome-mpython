@@ -85,6 +85,10 @@ class MicroBitUART(UART):
         if not self.redirect: super().init(115200, tx=1, rx=3)
         return super().read(*arg)
 
+    def readall(self):
+        if not self.redirect: super().init(115200, tx=1, rx=3)
+        return super().read()
+
     def readinto(self,*arg):
         if not self.redirect: super().init(115200, tx=1, rx=3)
         return super().readinto(*arg)
