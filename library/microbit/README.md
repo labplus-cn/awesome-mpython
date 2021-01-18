@@ -2,9 +2,16 @@
 
 ### 已实现Micro:Bit 功能
 
-- [x] MicrBit Module 基础函数 
-- [x] MicroBitDisplay
-- [x] 内置Image图片和构建类
+- MicrBit Module 
+  - Button
+  - Pin
+  - Display
+  - Image
+  - UART
+  - I2C
+  - Accelerometer
+  - Compass
+
 
 ## 使用
 
