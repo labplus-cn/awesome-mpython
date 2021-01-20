@@ -1,6 +1,6 @@
 [submodule "library/hcsr04"]
 	path = library/hcsr04
-	url = https://github.com/rsc1975/micropython-hcsr04.git
+	url = https://github.com/tangliufeng/micropython-hcsr04.git
 [submodule "library/ivPID"]
 	path = library/ivPID
 	url = https://github.com/tangliufeng/ivPID.git
